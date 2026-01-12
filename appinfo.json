@@ -1,0 +1,8 @@
+{
+  "id": "com.example.simpleapp",
+  "name": "Simple Vidaa App",
+  "version": "1.0.0",
+  "main": "index.html",
+  "icon": "icon.png",
+  "type": "html5"
+}
